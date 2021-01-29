@@ -15,7 +15,10 @@ For this lab, we were tasked with making three no-tech human actuated sketches t
 Next, I gathered my materials for further inspiration.
 ![One man's trash is another man's treasure.](../assets/img/lab1/IMG_0271.jpg){:class="img-responsive"}
 
-My first attempt was to make a breath-actuated wind tunnel, which would allow you to move a wooden ball up a clear tube. I taped a straw into the tube so that the breath would be move directed. I had originally planned this to be the 10mm example, but I didn't anticipate how easy it would be to move the ball, so this became my 100mm sketch. I marked the 100mm mark on the tube.
+My first attempt was to make a breath-actuated wind tunnel, which would allow you to move a wooden ball up a clear tube. I taped a straw into the tube so that the breath would be move directed. 
+![taped tubes](../assets/img/lab1/IMG_1816.jpg){:class="img-responsive"}
+
+I had originally planned this to be the 10mm example, but I didn't anticipate how easy it would be to move the ball, so this became my 100mm sketch. I marked the 100mm mark on the tube.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_bCzvQ0-w2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video shows the contraption in action, you can see that it works pretty well, although it took some trial and error with breath control to get the ball to hit near the right mark.
@@ -26,3 +29,13 @@ Next I wanted to make a system that would allow you to "walK" a two legged woode
 
 Next I needed to attach string to each of the legs of my block. I initially tried attaching them with scotch tape, but this didn't adhere well enough to the wood, so when I tried to "walk" the figure, the string came right off and the block fell over. I solved this by glueing the string to the wood with hot glue.
 ![hot glueing the block](../assets/img/lab1/IMG_1822.jpg){:class="img-responsive"}
+
+I then threaded the strings on each side through the slits I cut earlier. In the following video you can see the pulling motion used to "walk" the block.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZU9W1UiMZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And this video shows the walking motion with the block.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Df443u1LCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The 1mm sketch was the most difficult for me to do, and in the end I wasn't particularly satisfied with the results. My goal was to get a rubber band to oscillate, since the oscillations are in the 1mm range. I tried three different actuation methods to achieve this.
+
+My first effort was to drop a marble on the rubber band. I build a marble run 
