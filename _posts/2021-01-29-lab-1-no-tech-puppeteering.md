@@ -38,9 +38,19 @@ And this video shows the walking motion with the block.
 
 The 1mm sketch was the most difficult for me to do, and in the end I wasn't particularly satisfied with the results. My goal was to get a rubber band to oscillate, since the oscillations are in the 1mm range. I wrapped a rubber band around two clothespins hot glued to a cardboard base to make it taut enough that it would oscillate.
 ![clothespins](../assets/img/lab1/IMG_1824.jpg){:class="img-responsive"}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBIKFsl2wF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I tried three different actuation methods to achieve this.
 
 My first effort was to drop a marble on the rubber band. I built a marble run that would drop the marble on the elastic setup I made.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VOsuHSaGCac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This didn't work very well, the marble would either go between the elastic's sides or go over the side of it. I decided to try a different actuation method, this time using a pulley system.
+This didn't work very well, the marble would either go between the elastic's sides or go over the side of it. I decided to try a different actuation method, this time using a pulley system. Next I attempted to use a pulley systemt to knock a cart into the elastic.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_KCg55QpWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This was also a failure, The cart just knocked the whole clothespin setup over because it exerted too much force.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_-jI2zbxHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This video shows just how fast the cart was moving.
+
+Finally, I found a spinning clown toy that produced the correct amount of oscillation when spun into the elastic setup.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cdgCuKejUU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I am not particularly happy with this final result, I would have preferred something with less direct activation.
+
+Overall this was a very useful exercise in terms of adopting the mindset of building and testing and I look forward to lab 2!
