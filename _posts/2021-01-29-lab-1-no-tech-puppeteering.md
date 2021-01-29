@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lab 1- No-tech Puppeteering
-subtitle: Three sketches featuring human activation.
+subtitle: Three sketches featuring human actuation.
 cover-img: /assets/img/lab1/staypuft.jpg
 thumbnail-img: /assets/img/lab1/staypuft.jpg
 share-img: /assets/img/lab1/staypuft.jpg
