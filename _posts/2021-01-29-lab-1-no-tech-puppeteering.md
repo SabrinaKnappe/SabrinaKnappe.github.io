@@ -36,6 +36,11 @@ I then threaded the strings on each side through the slits I cut earlier. In the
 And this video shows the walking motion with the block.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Df443u1LCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The 1mm sketch was the most difficult for me to do, and in the end I wasn't particularly satisfied with the results. My goal was to get a rubber band to oscillate, since the oscillations are in the 1mm range. I tried three different actuation methods to achieve this.
+The 1mm sketch was the most difficult for me to do, and in the end I wasn't particularly satisfied with the results. My goal was to get a rubber band to oscillate, since the oscillations are in the 1mm range. I wrapped a rubber band around two clothespins hot glued to a cardboard base to make it taut enough that it would oscillate.
+![clothespins](../assets/img/lab1/IMG_1824.jpg){:class="img-responsive"}
 
-My first effort was to drop a marble on the rubber band. I build a marble run 
+I tried three different actuation methods to achieve this.
+
+My first effort was to drop a marble on the rubber band. I built a marble run that would drop the marble on the elastic setup I made.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOsuHSaGCac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This didn't work very well, the marble would either go between the elastic's sides or go over the side of it. I decided to try a different actuation method, this time using a pulley system.
