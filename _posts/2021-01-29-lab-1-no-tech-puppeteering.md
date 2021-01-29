@@ -8,7 +8,12 @@ share-img: /assets/img/path.jpg
 tags: [haptics, coursework]
 ---
 For this lab, we were tasked with making three no-tech human actuated sketches that produce different type of motion. One should move 1mm, one 10mm, and one 100mm. I started by drawing out some ideas.
-![1mm sketch](assets/img/lab1/IMG_0287.JPG){:class="img-responsive"}
+![1mm sketch](../assets/img/lab1/IMG_0287.JPG){:class="img-responsive"}
+![10mm sketch](../assets/img/lab1/IMG_0288.JPG){:class="img-responsive"}
+![100mm sketch](../assets/img/lab1/IMG_0289.JPG){:class="img-responsive"}
+
+Next, I gathered my materials for further inspiration.
+![One man's trash is another man's treasure.](../assets/img/lab1/IMG_0272.jpg){:class="img-responsive"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OdRHCrXF2ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
