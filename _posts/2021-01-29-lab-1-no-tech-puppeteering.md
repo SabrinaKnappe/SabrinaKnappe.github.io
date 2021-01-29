@@ -2,9 +2,9 @@
 layout: post
 title: Lab 1- No-tech Puppeteering
 subtitle: Three sketches featuring human activation.
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/lab1/staypuft.jpg
+thumbnail-img: /assets/img/lab1/staypuft.jpg
+share-img: /assets/img/lab1/staypuft.jpg
 tags: [haptics, coursework]
 ---
 For this lab, we were tasked with making three no-tech human actuated sketches that produce different type of motion. One should move 1mm, one 10mm, and one 100mm. I started by drawing out some ideas.
