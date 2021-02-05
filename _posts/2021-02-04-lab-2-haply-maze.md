@@ -25,15 +25,15 @@ While experimenting, I turned the block I was working on green so that I could t
 ![maze sketch 2](../assets/img/lab2/IMG_0338.JPG){:class="img-responsive"}
 
 I also decided to make a star to mark the goal of the maze, which turned out to be more complicated than I initially thought. While there is a Star class in Processing, in order to make one with fisica you need to use the Polygon class and add vertices one by one to make your polygon. I used Desmos to map out points so that I could understand how to make a star in Processing. I was able to directly copy the coordinates I came up with in Desmos to use in Processing.
-![maze version 1](../assets/img/lab2/Star.png){:class="img-responsive"}
+![star](../assets/img/lab2/Star.png){:class="img-responsive"}
 
 In the following videos and images you can see the evolution of my maze. I started by creating and placing the blocks based on the scale illustration I made. I then tweaked each of the blocks to account for the margins that were not included in my sketch.
-![maze version 1](../assets/img/lab2/mazev2.png){:class="img-responsive"}
+![maze version 2](../assets/img/lab2/mazev2.png){:class="img-responsive"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxXN7hy0ifc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![maze version 1](../assets/img/lab2/mazev3.png){:class="img-responsive"}
-![maze version 1](../assets/img/lab2/finishedmaze.png){:class="img-responsive"}
+![maze version 3](../assets/img/lab2/mazev3.png){:class="img-responsive"}
+![maze version 4](../assets/img/lab2/finishedmaze.png){:class="img-responsive"}
 
 And here is the final product:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rexgFfQcfU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
