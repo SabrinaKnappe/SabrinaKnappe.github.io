@@ -16,5 +16,12 @@ Once I had all the software running, it was time for me to come up with an idea 
 ![maze sketch](../assets/img/lab2/IMG_0337.JPG){:class="img-responsive"}
 Then I started experimenting with the pre-existing demos. At first I was working on the Hello Wall example until I found out we were allowed to use the fisica library, which simplifies everything a good deal.
 ![maze version 1](../assets/img/lab2/mazev1.png){:class="img-responsive"}
-While experimenting, I turned the block I was working on green so that I could tell which one I was moving. 
-![maze sketch 2](../assets/img/lab1/IMG_0338.jpg){:class="img-responsive"}
+While experimenting, I turned the block I was working on green so that I could tell which one I was moving. I removed all of the conditionals from the Maze Physics example since I just wanted a static maze. 
+![maze sketch 2](../assets/img/lab2/IMG_0338.jpg){:class="img-responsive"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fles_LEUNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxXN7hy0ifc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And here is the final product:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rexgFfQcfU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
