@@ -13,6 +13,6 @@ In this lab, we were tasked with setting up our Haply device, getting the softwa
 ![Assembled Haply](../assets/img/lab2/IMG_1860.jpg){:class="img-responsive"}
 
 Once I had all the software running, it was time for me to come up with an idea for the maze I wanted to build. I started by sketching what I thought a good maze might look like.
-![maze sketch](../assets/img/lab1/IMG_0337.JPG){:class="img-responsive"}
+![maze sketch](../assets/img/lab2/IMG_1855.jpg){:class="img-responsive"}
 Then I started 
-![maze sketch 2](../assets/img/lab1/IMG_0338.JPG){:class="img-responsive"}
+![maze sketch 2](../assets/img/lab1/IMG_0338.jpg){:class="img-responsive"}
