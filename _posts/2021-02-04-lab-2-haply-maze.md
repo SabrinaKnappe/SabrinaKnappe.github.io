@@ -17,7 +17,7 @@ Once I had all the software running, it was time for me to come up with an idea 
 Then I started experimenting with the pre-existing demos. At first I was working on the Hello Wall example until I found out we were allowed to use the fisica library, which simplifies everything a good deal.
 ![maze version 1](../assets/img/lab2/mazev1.png){:class="img-responsive"}
 While experimenting, I turned the block I was working on green so that I could tell which one I was moving. I removed all of the conditionals from the Maze Physics example since I just wanted a static maze. 
-![maze sketch 2](../assets/img/lab2/IMG_0338.jpg){:class="img-responsive"}
+![maze sketch 2](../assets/img/lab2/IMG_0338.JPG){:class="img-responsive"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fles_LEUNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
