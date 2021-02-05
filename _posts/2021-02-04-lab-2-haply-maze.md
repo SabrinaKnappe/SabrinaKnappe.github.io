@@ -14,5 +14,7 @@ In this lab, we were tasked with setting up our Haply device, getting the softwa
 
 Once I had all the software running, it was time for me to come up with an idea for the maze I wanted to build. I started by sketching what I thought a good maze might look like.
 ![maze sketch](../assets/img/lab2/IMG_1855.jpg){:class="img-responsive"}
-Then I started 
+Then I started experimenting with the pre-existing demos. At first I was working on the Hello Wall example until I found out we were allowed to use the fisica library, which simplifies everything a good deal.
+![maze version 1](../assets/img/lab2/mazev1.png){:class="img-responsive"}
+While experimenting, I turned the block I was working on green so that I could tell which one I was moving. 
 ![maze sketch 2](../assets/img/lab1/IMG_0338.jpg){:class="img-responsive"}
