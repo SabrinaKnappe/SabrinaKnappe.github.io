@@ -29,10 +29,9 @@ I also decided to make a star to mark the goal of the maze, which turned out to 
 
 In the following videos and images you can see the evolution of my maze. I started by creating and placing the blocks based on the scale illustration I made. I then tweaked each of the blocks to account for the margins that were not included in my sketch.
 ![maze version 2](../assets/img/lab2/mazev2.png){:class="img-responsive"}
-
-Despite my mapping, some of the blocks did not land in their intended position.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxXN7hy0ifc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Despite my mapping, some of the blocks did not land in their intended position.
 ![maze version 3](../assets/img/lab2/mazev3.png){:class="img-responsive"}
 You can see that I had more blocks than the space allowed for if I wanted the user to be able to move the ball between blocks. I ended up deleting some.
 
