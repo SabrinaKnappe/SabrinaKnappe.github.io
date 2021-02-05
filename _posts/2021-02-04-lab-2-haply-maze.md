@@ -20,12 +20,12 @@ Once I had all the software running, it was time for me to come up with an idea 
 ![maze sketch](../assets/img/lab2/IMG_0337.JPG){:class="img-responsive"}
 Then I started experimenting with the pre-existing demos. At first I was working on the Hello Wall example until I found out we were allowed to use the fisica library, which simplifies everything a good deal.
 ![maze version 1](../assets/img/lab2/mazev1.png){:class="img-responsive"}
-While experimenting, I turned the block I was working on green so that I could tell which one I was moving. I removed all of the conditionals from the Maze Physics example since I just wanted a static maze. 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fles_LEUNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Once I had a version of the screen I liked without the extras from the example, I took the time to come up with a scale version of my maze to help me write it out.
+While experimenting, I turned the block I was working on green so that I could tell which one I was moving. I removed all of the conditionals from the Maze Physics example since I just wanted a static maze. Once I had a version of the screen I liked without the extras from the example, I took the time to come up with a scale version of my maze to help me write it out.
 ![maze sketch 2](../assets/img/lab2/IMG_0338.JPG){:class="img-responsive"}
+
+I also decided to make a star to mark the goal of the maze, which turned out to be more complicated than I initially thought. While there is a Star class in Processing, in order to make one with fisica you need to use the Polygon class and add vertices one by one to make your polygon. I used Desmos to map out points so that I could understand how to make a star in Processing. I was able to directly copy the coordinates I came up with in Desmos to use in Processing.
+![maze version 1](../assets/img/lab2/Star.png){:class="img-responsive"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxXN7hy0ifc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
