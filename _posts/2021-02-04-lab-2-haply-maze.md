@@ -40,7 +40,7 @@ You can see that I had more blocks than the space allowed for if I wanted the us
 And here is the final product:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rexgFfQcfU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Below is my source code, note that I was experimenting with the minim and Sound packages, but didn't end up using them. In order for the code to compile, you can either download those packages, or remove the lines that use said packages.
 {% highlight processing%}
 import ddf.minim.*;
 import ddf.minim.analysis.*;
