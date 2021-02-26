@@ -14,7 +14,7 @@ This lab focused on getting familiar with controlled actuation by tuning a PID c
 ![Assembly in progress](../assets/img/lab2/IMG_1855.jpg){:class="img-responsive"}
 ![Assembled Haply](../assets/img/lab2/IMG_1860.jpg){:class="img-responsive"}
 
-I used [https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path](this stack overflow post) as reference for the math of how to make the point move in a circular path. I ended up adjusting the radius by hand to make sure I had something of a size the haply could follow. I hardcoded my own point for the same reason. 
+I used <a href="https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path">this stack overflow post</a>[](this stack overflow post) as reference for the math of how to make the point move in a circular path. I ended up adjusting the radius by hand to make sure I had something of a size the haply could follow. I hardcoded my own point for the same reason. 
 
 
 See my code below:
