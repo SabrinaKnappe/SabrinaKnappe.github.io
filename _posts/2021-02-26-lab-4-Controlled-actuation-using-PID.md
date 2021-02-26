@@ -12,6 +12,8 @@ In this lab, we were tasked with setting up our Haply device, getting the softwa
 ![Assembly in progress](../assets/img/lab2/IMG_1855.jpg){:class="img-responsive"}
 ![Assembled Haply](../assets/img/lab2/IMG_1860.jpg){:class="img-responsive"}
 
+I used this stack overflow post [[https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path]] as reference for the math of how to make the point move in a circular path.
+
 
 {% highlight processing%}
 
