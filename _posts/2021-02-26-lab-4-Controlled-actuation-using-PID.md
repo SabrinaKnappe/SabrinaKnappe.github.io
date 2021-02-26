@@ -2,9 +2,9 @@
 layout: post
 title: Lab 4- Controlled Actuation Using PID
 subtitle: Tuning a PID controller for the haply.
-cover-img: /assets/img/lab2/finishedmaze.png
-thumbnail-img: /assets/img/lab2/finishedmaze.png
-share-img: //assets/img/lab2/finishedmaze.png
+cover-img: /assets/img/lab4/PID.png
+thumbnail-img: /assets/img/lab4/PID.png
+share-img: /assets/img/lab4/PID.png
 tags: [haptics, coursework]
 ---
 This lab focused on getting familiar with controlled actuation by tuning a PID controller. We were provided with skeleton code. We were asked to record our thoughts for each of the steps given to us.
