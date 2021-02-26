@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lab 4- Controlled Actuation Using PID
-subtitle: Building a maze in processing for the haply.
+subtitle: Tuning a PID controller for the haply.
 cover-img: /assets/img/lab2/finishedmaze.png
 thumbnail-img: /assets/img/lab2/finishedmaze.png
 share-img: //assets/img/lab2/finishedmaze.png
