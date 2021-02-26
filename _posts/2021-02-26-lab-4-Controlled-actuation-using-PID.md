@@ -23,7 +23,10 @@ This lab focused on getting familiar with controlled actuation by tuning a PID c
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yJqmOrrFOV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 4. Implement path tracking, specifically, replace the random position by a position following a track over time (e.g., a circle or square). What happens when you hold the handle? How is it affected by the PID parameters?
-    I used <a href="https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path">this stack overflow post</a> as reference for the math of how to make the point move in a circular path. I ended up adjusting the radius by hand to make sure I had something of a size the haply could follow. I hardcoded my own point for the same reason. 
+    I used <a href="https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path">this stack overflow post</a> as reference for the math of how to make the point move in a circular path. I ended up adjusting the radius by hand to make sure I had something of a size the haply could follow. I hardcoded my own point for the same reason. When I hold the handle, the haply moves my hand in a circular motion following the target. 
+
+5. Play with the controller update rates, and with introducing delays. How does this change the system? What happens if you sample faster or slower? What happens if it's random?
+    I found new PID settings in the last question (0.04, 0.01, 0.76). The looptime parameter makes things more smooth if it is smaller and less smooth as it gets larger. The sample changes how often you are updating based on feedback, so this makes a lot of sense. When you update very often, you do smaller corrections more often, and when you update less often you need to do larger corrections which causes a type of oscillation. If the update rate is random it increases the roughness.
 
 
 See my code below:
