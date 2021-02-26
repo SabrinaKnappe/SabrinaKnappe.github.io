@@ -9,10 +9,17 @@ tags: [haptics, coursework]
 ---
 This lab focused on getting familiar with controlled actuation by tuning a PID controller. We were provided with skeleton code. We were asked to record our thoughts for each of the steps given to us.
 
+1. Run the sample code and try out the P controller. How does it feel? What does changing the P parameter do? Do you notice any problems?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snPZVaaJAj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+It feels like the end effector is being moved towards the target position. If you pull it away from the target, it springs back towards it. As the P value is increased, the force with which it is pulled towards the target increases. There is oscillation in many cases when it gets to the target because it overshoots and then tries to get back to the target.
 
+1. Add the D component to your controller. How does this change the behavior of the haply? Are there any problems?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXgyL-ATQdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+On my first run adding the D component, there was increased oscillation along the path to the target position, not just around the target position. Next I changed smoothing to 0.9 to see if I could understand the effects of the D component better. This decreased the oscillation but did add lag. Appart from the lag, just the P and D components together seem to tune the controller fairly well. The lower the derivative value, the wider the oscillations. When the derivative is higher the oscillations were more violent but also located more narrowly around the target position.
 
-![Assembly in progress](../assets/img/lab2/IMG_1855.jpg){:class="img-responsive"}
-![Assembled Haply](../assets/img/lab2/IMG_1860.jpg){:class="img-responsive"}
+1.Add the I component to your controller. How does this change the behaviour of the Haply? Can you create a stable system that reaches the target?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSkPxxnk1Cc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The I component when I first added it
 
 I used <a href="https://stackoverflow.com/questions/34842502/processing-how-do-i-make-an-object-move-in-a-circular-path">this stack overflow post</a>[](this stack overflow post) as reference for the math of how to make the point move in a circular path. I ended up adjusting the radius by hand to make sure I had something of a size the haply could follow. I hardcoded my own point for the same reason. 
 
