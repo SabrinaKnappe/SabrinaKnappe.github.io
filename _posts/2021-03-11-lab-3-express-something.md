@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lab 4- Controlled Actuation Using PID
-subtitle: Tuning a PID controller for the haply.
+title: Lab 3- Communicate Something with Haply
+subtitle: Trying to communicate three words with the Haply.
 cover-img: /assets/img/lab4/PID.png
 thumbnail-img: /assets/img/lab4/PID.png
 share-img: /assets/img/lab4/PID.png

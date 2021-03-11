@@ -5,7 +5,7 @@ subtitle: Three sketches featuring human actuation.
 cover-img: /assets/img/lab1/staypuft.jpg
 thumbnail-img: /assets/img/lab1/staypuft.jpg
 share-img: /assets/img/lab1/staypuft.jpg
-tags: [haptics, coursework]
+tags: [haptics, coursework, labs]
 ---
 For this lab, we were tasked with making three no-tech human actuated sketches that produce different type of motion. One should move 1mm, one 10mm, and one 100mm. I started by drawing out some ideas.
 ![1mm sketch](../assets/img/lab1/IMG_0287.JPG){:class="img-responsive"}
