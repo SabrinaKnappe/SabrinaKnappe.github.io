@@ -9,7 +9,9 @@ tags: [haptics, coursework, labs]
 ---
 This lab asked us to create three sketches that express words.
 The following images show my sketching and ideation for the assignment.
-
+![notes](../assets/img/lab3/Haptics-Notes-25.png){:class="img-responsive"}
+![notes](../assets/img/lab3/Haptics-Notes-26.png){:class="img-responsive"}
+![notes](../assets/img/lab3/Haptics-Notes-27.png){:class="img-responsive"}
 I tried to use a dropdown menu to navigate between sketches. 
 ![first version of dropdown menu](../assets/img/lab3/dropdown.png){:class="img-responsive"}
 However, I was unable to execute three sketches within a reasonable time frame. I could not get them integrated into a single sketch, and since I was approaching 10-12 hours of working on the lab, I decided that it was best to move on. I was able to get one sketch working, the pacing sketch involving the end effector moving back and forth. I used <a href="http://processing.flosscience.com/processing-for-android/macul-2012/make-an-object-move">this website</a> as a reference for how to make an object move back and forth. I tested this sketch on my sister which you can see in the following video:
