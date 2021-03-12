@@ -2,9 +2,9 @@
 layout: post
 title: Lab 3- Communicate Something with Haply
 subtitle: Trying to communicate three words with the Haply.
-cover-img: /assets/img/lab4/PID.png
-thumbnail-img: /assets/img/lab4/PID.png
-share-img: /assets/img/lab4/PID.png
+cover-img: /assets/img/lab3/dropdown.png
+thumbnail-img: /assets/img/lab3/dropdown.png
+share-img: /assets/img/lab3/dropdown.png
 tags: [haptics, coursework, labs]
 ---
 This lab asked us to create three sketches that express words.
